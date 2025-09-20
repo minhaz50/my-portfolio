@@ -1,10 +1,17 @@
+.container {
+  margin-right: 30rem;
+}
 .portfolio__container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 2.5rem;
+  gap: 2rem;
+
   height: 150%;
 }
-
+.image {
+  width: 300px;
+  height: 300px;
+}
 .portfolio__item {
   background: var(--color-bg-variant);
   padding: 1.3rem;

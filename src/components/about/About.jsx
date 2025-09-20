@@ -4,6 +4,7 @@ import profile_picture from "../../assets/img.png";
 // import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+import { FaAward } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -31,7 +32,7 @@ const About = () => {
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
               <small>
-                15+ Completed
+                8+ Completed
                 <br />
                 and Counting
               </small>
@@ -44,20 +45,19 @@ const About = () => {
           </div>
           <p>
             Hello there! 👋 I'm Md Minhaz Uddin, a creative and detail-oriented
-            frontend developer. With a strong background in HTML, CSS,
+            fullstack developer. With a strong background in HTML, CSS,
             JavaScript, ReactJs familiarity with back-end technologies such as
             NodeJS, ExpressJS, MongoDB. I specialize in translating design
             concepts into interactive and responsive websites and web
             applications.
           </p>
-          <p>
-            I am fascinated by the intersection of technology and creativity.
-            Frontend development allows me to blend my technical skills with my
-            love for design, enabling me to build digital products that not only
-            function flawlessly but also captivate users. I believe that
-            user-centric design is key to making a lasting impact in the digital
-            landscape.
-          </p>
+          {/* <p>
+            Enthusiastic FullStack Developer with a strong focus on backend
+            development using Node.js, Express.js, and database management
+            (SQL/NoSQL). Eager to apply problem-solving abilities and backend
+            expertise to build scalable, efficient applications while growing as
+            a Software Engineer.
+          </p> */}
           <p>
             I'm always open to new opportunities, collaborations, and
             challenges.
