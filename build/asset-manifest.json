@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7c6c676.css",
+    "main.js": "/static/js/main.c713714d.js",
+    "static/media/header-image.png": "/static/media/header-image.2838291f6c5325b2658c.png",
+    "static/media/minhaz-resume.pdf": "/static/media/minhaz-resume.d3a7797f3a44b2400bbd.pdf",
+    "static/media/img.png": "/static/media/img.0689bc68ca40a7a0befa.png",
+    "static/media/computer-parts.jpg": "/static/media/computer-parts.34652ac855a764a4d972.jpg",
+    "static/media/Portfolio4.png": "/static/media/Portfolio4.2267af5058b1e7f378d9.png",
+    "static/media/Portfolio3.png": "/static/media/Portfolio3.4233502f78f8358d7621.png",
+    "static/media/gpt-3.jpg": "/static/media/gpt-3.4c566080473a1845395d.jpg",
+    "static/media/mordern-fitness.jpg": "/static/media/mordern-fitness.05672ab759d859348824.jpg",
+    "static/media/profilecard.jpg": "/static/media/profilecard.1860affbddbea54a0307.jpg",
+    "index.html": "/index.html",
+    "main.a7c6c676.css.map": "/static/css/main.a7c6c676.css.map",
+    "main.c713714d.js.map": "/static/js/main.c713714d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c6c676.css",
+    "static/js/main.c713714d.js"
+  ]
+}
